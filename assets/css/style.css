@@ -1,0 +1,51 @@
+body {
+	background-image: url("../images/ravenna.png");
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.box-1{
+	width:960px;
+	height:79px;
+	background-color:#ffffff;
+}
+
+.name-box{
+	float:left;
+	margin-left: 120px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #4aaaa5;
+	color:#ffffff;
+}
+
+.navigation{
+	float: left;
+	margin-top: 35px;
+	margin-left: 250px;
+}
+
+
+.box-2{
+	clear:both;
+	width: 650px;
+	margin:100px;
+	padding:20px;
+}
+
+
+hr{
+	margin: 20px;
+	width: 600px;
+}
+
+h2{
+	color:#4aaaa5;
+}
+
+.aside{
+	float: right;
+}
+
+.footer{
+	position: relative;
+}
