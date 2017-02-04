@@ -115,7 +115,7 @@ a#namelink{
 img {
 	float: left;
 	vertical-align: top;
-	margin: 7px 20px 7px 2px;
+	margin: 7px 10px 7px 2px;
 }
 
 section {
@@ -148,6 +148,7 @@ hr {
 	border-bottom-width: 2px;
 	border-bottom-color: #cccccc;
 	margin-bottom: 10px;
+	text-align: center;
 }
 
 .aside {
